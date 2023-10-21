@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ifuhad622
-- ALX Software Engineering Student
+- 👋 Hi, I’m Ibraihim Fuhad Suna
+- ALX Software Engineering Student|Graphics Designer|Hardware & Networking Engineer.
 -Follow me on github.com
 
 <!---
