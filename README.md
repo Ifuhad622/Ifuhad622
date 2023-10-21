@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibraihim Fuhad Suna
-- ALX Software Engineering Student |Graphics Designer | Hardware & Networking Engineer.
+- ALX Software Engineering Student.      | Graphics Designer | Hardware &  Engineer.
 -Follow me on github.com
 
 <!---
