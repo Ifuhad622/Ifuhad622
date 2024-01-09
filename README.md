@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Ibraihim Fuhad Suna
-- ALX Software Engineering Student.      | Graphics Designer | Hardware &  Engineer.
+- 👋 Hi, I’m Ibraihim Fuhad Suma a Tech Lover that love Creativity.
+
+- ALX Software Engineering Student-COHORT 17 | A Passionate Graphics Designer | Hardware Engineer(A+)| Networking Engineer(N+)
 -Follow me on github.com
 
 <!---
