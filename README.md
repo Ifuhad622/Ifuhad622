@@ -1,9 +1,27 @@
-- 👋 Hi, I’m Ibraihim Fuhad Suma a Tech Lover that love Creativity.
+- 👋 Hi, I’m Ibraihim Fuhad Suma a Tech Lover that love Creativity. •	I’m currently enrolled in ALX Software Engineering Program-"Cohort 17" 
+•	🌱 I am interested in UX designers, Software, DevOps engineers and Web Development
+•	💞️ I’m looking to collaborate on projects like: Web/Application Development (JavaScript/React/Node.js), Systems Administration, and Scripting/Automation
 
-- ALX Software Engineering Student-COHORT 17 | A Passionate Graphics Designer | Hardware Engineer(A+)| Networking Engineer(N+)
--Follow me on github.com
+•	📫 How to reach me:
+•	 Telegram: @Fuhad 
+•	Instagram: @fuhad220
+•	 Twitter: @fuhad_suma
+•	Linkedin: Ibraihim Fuhad Suma
 
-<!---
-Ifuhad622/Ifuhad622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IT Speacilist
+A Passionate Graphics Designer | Hardware Engineer(A+)| Networking Engineer(N+)   
+
+Am willing to Learn New Skills...
+
+                                        
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                                                                                
+ 
